@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vishwajeetguru
 - 👀 I’m interested in web developement
-- 🌱 I’m currently learning Angular 
+- 🌱 I’m currently learning Full Stack UI.
 - 📫 How to reach me -- Message me on instagram @vishwa_guru
 
 <!---
